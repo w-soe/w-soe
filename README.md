@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/91e2c944-05a2-4cbb-b0f8-f0a4597fc9a7
 <img src="assets/hero.png" width="100%" alt="Soe William Min. Software Engineer, Systems and Tools. C/C++ systems and internal tools, built around the people who use them. SIT-DigiPen, BSc Computer Science (IMGD), 2028, Singapore.">
 
 <p align="center">
