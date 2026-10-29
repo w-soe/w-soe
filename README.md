@@ -1,26 +1,5 @@
 
 https://github.com/user-attachments/assets/91e2c944-05a2-4cbb-b0f8-f0a4597fc9a7
-<!--
-  SETUP NOTES (invisible on GitHub, safe to leave in)
-  1. Repo must be PUBLIC and named exactly "w-soe".
-  2. Upload this README.md and the whole "assets" folder.
-  3. Replace RESUME_LINK and YOUR_EMAIL.
-  4. Videos play inside the page. Edit README.md on GitHub and drag each video onto its
-     placeholder line, replacing it (each video must be under 10 MB):
-       TTB_CONTRIB_VIDEO_UPLOAD  ->  TTB_My_Contributions_GitHub.mp4
-       TTB_EDITOR_VIDEO_UPLOAD   ->  TTB_Editor_Showcase_GitHub.mp4
-       MRT_VIDEO_UPLOAD          ->  your End of the Line highlight clip
-       MI_VIDEO_UPLOAD           ->  Missile_Impossible_GitHub.mp4
-     If the editor won't take a file: open a new issue in this repo, drag the video into
-     the comment box, copy the link GitHub generates, close the issue without submitting,
-     and paste the link in place of the placeholder.
-  5. End of the Line download: publish a GitHub Release in this repo with the file
-     EndOfTheLine_Windows.zip attached (exact name). The button links to the latest
-     release automatically. Until that release is published, the button leads to a
-     404 page, so delete its line if you publish the profile first.
-  6. The banner, cards and buttons are designed images in assets/.
--->
-
 <img src="assets/hero.png" width="100%" alt="Soe William Min. Software Engineer, Systems and Tools. C/C++ systems and internal tools, built around the people who use them. SIT-DigiPen, BSc Computer Science (IMGD), 2028, Singapore.">
 
 <p align="center">
@@ -63,22 +42,18 @@ https://github.com/user-attachments/assets/91e2c944-05a2-4cbb-b0f8-f0a4597fc9a7
 **Tech:** C++ · Lua · Dear ImGui · RapidJSON · custom engine
 
 <details>
-<summary><img src="assets/btn-contributions.png" height="40" align="absmiddle" alt="Watch my contributions (3 min)"></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contributions.png"><img src="assets/btn-contributions.png" height="40" align="absmiddle" alt="Watch my contributions (3 min)"></picture></summary>
 <br>
 
-
 https://github.com/user-attachments/assets/4ee8a07c-c885-457f-bb34-82c5360c8e2a
-
 
 </details>
 
 <details>
-<summary><img src="assets/btn-editor-showcase.png" height="40" align="absmiddle" alt="Watch the team's editor showcase (3 min)"></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-editor-showcase.png"><img src="assets/btn-editor-showcase.png" height="40" align="absmiddle" alt="Watch the team's editor showcase (3 min)"></picture></summary>
 <br>
 
-
 https://github.com/user-attachments/assets/630dbda8-0db1-4f9a-bfb4-17c2a0678380
-
 
 </details>
 
@@ -96,14 +71,6 @@ https://github.com/user-attachments/assets/630dbda8-0db1-4f9a-bfb4-17c2a0678380
 **Tech:** Unreal Engine 5.8 · Blueprints · Modeling Mode · Landscape<br>
 <sub>Made on exchange at DigiPen in Redmond, USA.</sub>
 
-<details>
-<summary><img src="assets/btn-watch.png" height="40" align="absmiddle" alt="Watch a playthrough"></summary>
-<br>
-
-MRT_VIDEO_UPLOAD
-
-</details>
-
 <a href="https://github.com/w-soe/w-soe/releases/latest/download/EndOfTheLine_Windows.zip"><img src="assets/btn-download-windows.png" height="40" alt="Download End of the Line for Windows (zip)"></a>
 
 <br>
@@ -120,11 +87,9 @@ MRT_VIDEO_UPLOAD
 **Tech:** C · Alpha Engine · Visual Studio
 
 <details>
-<summary><img src="assets/btn-watch.png" height="40" align="absmiddle" alt="Watch gameplay (2 min)"></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-watch.png"><img src="assets/btn-watch.png" height="40" align="absmiddle" alt="Watch gameplay (2 min)"></picture></summary>
 <br>
 
-
 https://github.com/user-attachments/assets/a09120cf-7aa1-4218-80bd-83afa378c360
-
 
 </details>
