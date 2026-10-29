@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/91e2c944-05a2-4cbb-b0f8-f0a4597fc9a7
 <!--
   SETUP NOTES (invisible on GitHub, safe to leave in)
   1. Repo must be PUBLIC and named exactly "w-soe".
@@ -64,7 +66,9 @@
 <summary><img src="assets/btn-contributions.png" height="40" align="absmiddle" alt="Watch my contributions (3 min)"></summary>
 <br>
 
-TTB_CONTRIB_VIDEO_UPLOAD
+
+https://github.com/user-attachments/assets/4ee8a07c-c885-457f-bb34-82c5360c8e2a
+
 
 </details>
 
@@ -72,7 +76,9 @@ TTB_CONTRIB_VIDEO_UPLOAD
 <summary><img src="assets/btn-editor-showcase.png" height="40" align="absmiddle" alt="Watch the team's editor showcase (3 min)"></summary>
 <br>
 
-TTB_EDITOR_VIDEO_UPLOAD
+
+https://github.com/user-attachments/assets/630dbda8-0db1-4f9a-bfb4-17c2a0678380
+
 
 </details>
 
@@ -117,6 +123,8 @@ MRT_VIDEO_UPLOAD
 <summary><img src="assets/btn-watch.png" height="40" align="absmiddle" alt="Watch gameplay (2 min)"></summary>
 <br>
 
-MI_VIDEO_UPLOAD
+
+https://github.com/user-attachments/assets/a09120cf-7aa1-4218-80bd-83afa378c360
+
 
 </details>
